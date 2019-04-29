@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.438
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PikaPhuClipboard", "PikaPhuClipboard\PikaPhuClipboard.csproj", "{16D4CA5F-E517-4C6A-9155-BD5C03150D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16D4CA5F-E517-4C6A-9155-BD5C03150D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16D4CA5F-E517-4C6A-9155-BD5C03150D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16D4CA5F-E517-4C6A-9155-BD5C03150D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16D4CA5F-E517-4C6A-9155-BD5C03150D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E958C72F-99A2-41A1-A9D0-1293E57CC3E1}
+	EndGlobalSection
+EndGlobal
